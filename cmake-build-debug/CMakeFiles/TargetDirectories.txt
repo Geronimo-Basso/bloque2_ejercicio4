@@ -1,0 +1,3 @@
+/Users/GeronimoBasso/Desktop/Tercer_Semestre/PEL/Semana-15/bloque2_ejercicio4/cmake-build-debug/CMakeFiles/bloque2_ejercicio4.dir
+/Users/GeronimoBasso/Desktop/Tercer_Semestre/PEL/Semana-15/bloque2_ejercicio4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/GeronimoBasso/Desktop/Tercer_Semestre/PEL/Semana-15/bloque2_ejercicio4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
